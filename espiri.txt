@@ -1,3 +1,9 @@
 Tuvaletteki 10’a ne denir?\n Cevap : SİFON
 En güzel yemek yapan Ceren hangisidir?\n Cevap : TENCEREN
 İshal olmuş böceğe ne denir?\n Cevap : CIRCIR BÖCEĞİ
+Bacaktaki 10’a ne denir?\n Cevap : PANTOLON
+Türkiye’nin en yeni şehri hangisidir?\n Cevap : NEVŞEHİR
+Yıkanan ton balığına ne denir?\n Cevap : WASHINGTON
+Baykuşlar vedalaşırken ne der?\n Cevap : BAY BAY BAYKUŞ
+Yemeğin suyuna kim bandı?\n Cevap : KOLİ BANDI
+Bebeğe patik giydirmeye çalışmışlar ama giymemiş neden?\n Cevap : BEBEK ANTİPATİKMİŞ
