@@ -1,3 +1,4 @@
 selam | Selam nasılsın ?
 günaydın | Günaydın nasılsın ? 
 iyi geceler | İyi geceler tatlı rüyalar
+naber | iyidir senden naber
